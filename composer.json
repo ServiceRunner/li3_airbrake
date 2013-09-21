@@ -1,0 +1,22 @@
+{
+    "name": "servicerunner/li3_airbrake",
+    "type": "lithium-library",
+    "description": "Simple Airbrake.io integration for Lithium",
+    "keywords": ["airbrake", "airbrake.io", "li3", "lithium"],
+    "homepage": "https://github.com/ServiceRunner/li3_airbrake",
+    "authors": [
+        {
+            "name": "Chris Jones",
+            "email": "leeked@gmail.com",
+            "homepage": "https://github.com/leek"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/ServiceRunner/li3_airbrake/contributors"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "dbtlr/php-airbrake": "dev-master"
+    }
+}
